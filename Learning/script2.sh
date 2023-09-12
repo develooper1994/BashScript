@@ -9,7 +9,7 @@ echo name       # name
 echo $name      # MusTafA
 echo ${name}    # MusTafA
 echo ${name,}   # musTafA
-echo ${name,,}  # musTafA
+echo ${name,,}  # mustafa
 
 ### capitalize letter
 name="musTafA"
